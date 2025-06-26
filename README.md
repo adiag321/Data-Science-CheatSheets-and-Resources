@@ -1,5 +1,5 @@
-## <p align="center">RESOURCES TO LEARN DATA SCIENCE </p>
-In this repository, I have curated all the materials one can use to study SQL, Data Analysis, and Machine learning Algorithms.
+## <p align="center">CHEATSHEETS AND RESOURCES TO LEARN DATA SCIENCE</p>
+In this repository, I have curated all the materials one can use to study SQL, Data Analysis, Statistics, Machine learning Algorithms, LangChain, and MLOps.
 <a id="top"></a>
 
 ### Table of Contents
@@ -66,10 +66,17 @@ In this repository, I have curated all the materials one can use to study SQL, D
 
 #### [Go to Top](#top)
 --------------
-### <a id="python"></a>2. PYTHON --
+### <a id="python"></a>2. PYTHON
 
+#### **CODING PRACTICE WEBSITES**
 - [Python for Data Analysis by DataDraft - Youtube Playlist](https://www.youtube.com/playlist?list=PLiC1doDIe9rCYWmH9wIEYEXXaJ4KAi3jc)
 - [Corey Schafer - Youtube Channel](https://www.youtube.com/user/schafer5)
+
+#### **YOUTUBE PLAYLIST/CHANNELS**
+
+#### **ARTICLES/VIDEOS**
+
+#### **INTERVIEW PREPARATION**
 
 #### [Go to Top](#top)
 --------------
