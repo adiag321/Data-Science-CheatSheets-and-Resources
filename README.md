@@ -385,7 +385,7 @@ In this repository, I have curated all the materials one can use to study SQL, D
 
 ##### [Go to Top](#top)
 --------------
-### <a id="tech_blogs"></a>10. TECH BLOGS
+### <a id="tech-blogs"></a>10. TECH BLOGS
 
 #### COMPANY AI/ML BLOGS AND CASE STUDIES
 - [Airbnb AI & Machine Learning](https://lnkd.in/gzAXfQg5)
