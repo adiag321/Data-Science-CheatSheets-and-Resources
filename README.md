@@ -17,7 +17,7 @@ In this repository, I have curated all the materials one can use to study SQL, D
 12. [Podcasts](#podcasts)
 
 --------------
-### <a id="YouTubers"></a>YouTubers/Playlists to Follow --
+### <a id="YouTubers"></a>YouTubers/Playlists to Follow
 - [KRISH NAIK COMPLETE MACHINE LEARNING: Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
 - [CampusX: Playlist](https://www.youtube.com/@campusx-official/playlists)
 - [Data Monk Channel - Machine Learning: Playlist](https://www.youtube.com/@thedatamonk7779/videos)
@@ -138,88 +138,198 @@ In this repository, I have curated all the materials one can use to study SQL, D
 --------------
 ### <a id="machine-learning"></a>5. MACHINE LEARNING 
 
-#### **Interview Preparation --**
-- [Data Science Interviews by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-)
+#### YOUTUBE CHANNELS
+- [Emma Ding (ML, A/B testing)](https://www.youtube.com/@emma_ding/videos)
+- [CampusX (ML)](https://www.youtube.com/@campusx-official)
+- [Krish Naik in Hindi (ML)](https://www.youtube.com/@krishnaikhindi)
+- [Krish Naik (ML)](https://www.youtube.com/@krishnaik06)
+- [Exponent (ML, Business Case Study)](https://www.youtube.com/@ExponentTech/videos)
+- [StarQuest by Josh Starmer (ML)](https://www.youtube.com/@statquest)
+- [Simplilearn (ML, Stats, MLOps)](https://www.youtube.com/@SimplilearnOfficial/videos)
+- [MathematicalMonk ML videos](https://www.youtube.com/@mathematicalmonk)
 
-#### **Learning Resources --**
-- [DATA SCIENCE FOR BEGINNERS BY CODEBASICS - YOUTUBE PLAYLIST](https://www.youtube.com/playlist?list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV)
-- [Unsupervised Machine Learning by Cognitive Class (Project Based)](https://cognitiveclass.ai/learn/unsupervised-machine-learning)
+#### YOUTUBE PLAYLIST
+- [Ace the Machine Learning Interview by Emma Ding](https://www.youtube.com/playlist?list=PLY1Fi4XflWSsLoOQr-Ee2R4qRFejtCFRh)
+- [CampusX: 100 Days of Machine Learning](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
+- [Complete Machine Learning playlist in Hindi by Krish Naik](https://www.youtube.com/playlist?list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ)
+- [Complete Machine Learning Playlist by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
+- [Machine Learning by StarQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+- [Data Science and Machine Learning with Python by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVOnN_g96ayzXX5i7RRO0QhL)
+- [StarQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer/playlists)
+- [MathematicalMonk ML videos playlist](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 
-#### [Go to Top](#top)
---------------
-### <a id="classical-ml"></a>5. CLASSICAL MACHINE LEARNING ALGORITHMS --
+#### READING RESOURCES & TUTORIALS
+- [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
+- [The Data Science Interview Book](https://book.thedatascienceinterviewproject.com/)
+- [Machine Learning | GeeksforGeeks](https://www.geeksforgeeks.org/machine-learning/)
+- [Model Explainability using SHAP values (GitHub)](https://github.com/shap/shap)
+
+#### INTERVIEW PREPARATION
+- [Data Science Interview Questions by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-)
+- [Top 50+ Machine Learning Interview Questions and Answers](https://www.geeksforgeeks.org/machine-learning/machine-learning-interview-questions/#)
+- [Machine Learning Interview Mastery by Emma Ding](https://www.youtube.com/watch?v=21E-bUnGQQ4)
+- [Interview Questions by Campus se Corporate tak](http://campussecorporate.com/blog/)
+- [Interview Questions - Data Scientist Positions by S. Gosh (GitHub)](https://github.com/Sghosh1999/Interview-Questions-Data-Scientist-Positions/tree/main)
+
+#### ARTICLES/VIDEOS
+- [Techniques to Boost Model Accuracy](https://freedium.cfd/https://towardsdatascience.com/boosting-model-accuracy-techniques-i-learned-during-my-machine-learning-thesis-at-spotify-code-8027f9c11e57)
 - [All Learning Algorithms Explained in 14 Minutes](https://www.youtube.com/watch?v=BT6Aw6Q75Yg)
+- [An Introduction to Statistical Learning - Resources for Python](https://www.statlearning.com/resources-python)
+- [ML Models Explained by Amazon Employees](https://mlu-explain.github.io/)
+- [Machine Learning for Everybody – Full Course by FreeCodeCamp](https://www.youtube.com/watch?v=i_LwzRVP7bg&ab_channel=freeCodeCamp.org)
 
-#### A. Linear Regression
-- [30 Questions to test a Data Scientist on Linear Regression](https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/)
-- [Linear Regression - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=E5RjzSK0fvY)
-- [5 Types of Regression and their properties](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e)
+#### Data Preprocessing
+- [One Hot Encoding - Everything You Want to Know (Kaggle)](https://www.kaggle.com/code/marcinrutecki/one-hot-encoding-everything-you-need-to-know)
+
+#### Bias-Variance Tradeoff/Overfitting/Underfitting
+- [What is Regularization: Bias-Variance Tradeoff](https://towardsdatascience.com/machine-learning-bias-variance-tradeoff-and-regularization-94846f945131/)
+
+#### Linear Regression
+- [Linear Regression Algorithm by Edureka](https://www.youtube.com/watch?v=E5RjzSK0fvY)
+- [Assumptions of Linear Regression by CampusX](https://www.youtube.com/watch?v=EmSNAtcHLm8&t=389s)
+- [30 Questions to Test a Data Scientist on Linear Regression](https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/)
+- [Linear Regression by Machine Learning University](https://mlu-explain.github.io/linear-regression/)
+- [5 Types of Regression and Their Properties](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e)
 - [Ridge Regression - Clearly Explained](https://www.youtube.com/watch?v=Q81RR3yKn30)
 - [Lasso Regression - Clearly Explained](https://www.youtube.com/watch?v=NGf0voTMlcs)
+- [L1 and L2 Regularization in Machine Learning by Emma Ding](https://www.youtube.com/watch?v=pJ5c_uLeg2A&list=PLY1Fi4XflWSsLoOQr-Ee2R4qRFejtCFRh&index=11)
 
-#### B. Logistic Regression
-- [Logistic Regression In-depth Maths Intuition In Hindi by Krish Naik](https://www.youtube.com/watch?v=_nvQKN8L1ZE&ab_channel=KrishNaikHindi)
-- [All about Logistic Regression in one article](https://towardsdatascience.com/logistic-regression-b0af09cdb8ad)  
-- [Understanding Logistic Regression step-by-step](https://towardsdatascience.com/understanding-logistic-regression-step-by-step-704a78be7e0a)  
-- [Logistic Regression - Short and Clear Explanation - 9 Mins: Video](https://www.youtube.com/watch?v=yIYKR4sgzI8)
-- [Linear Regression vs Logistic Regression: Video](https://www.youtube.com/watch?v=OCwZyYH14uw)
-- [30 Questions to test a Data Scientist on Logistic Regression](https://www.analyticsvidhya.com/blog/2017/08/skilltest-logistic-regression/)  
-- [Logistic Regression - Understand Everything (Theory + Maths + Coding): Video](https://www.youtube.com/watch?v=VCJdg7YBbAQ)
-- [Lasso, Ridge and Logistic Regression: Video](https://www.youtube.com/live/vaQxdBEcBzU?si=3judBH9xcRefRwGP)
+#### Logistic Regression
+- [Logistic Regression In-depth (Hindi) by Krish Naik](https://www.youtube.com/watch?v=_nvQKN8L1ZE&ab_channel=KrishNaikHindi)
+- [All About Logistic Regression (Medium)](https://medium.com/towards-data-science/logistic-regression-b0af09cdb8ad)
+- [Logistic Regression | GeeksForGeeks](https://www.geeksforgeeks.org/understanding-logistic-regression/)
+- [Logistic Regression from Scratch using Python](https://www.geeksforgeeks.org/implementation-of-logistic-regression-from-scratch-using-python/)
+- [Logistic Regression - Short Explanation by StarQuest](https://www.youtube.com/watch?v=yIYKR4sgzI8&ab_channel=StatQuestwithJoshStarmer)
+- [Linear vs Logistic Regression by Edureka](https://www.youtube.com/watch?v=OCwZyYH14uw&ab_channel=edureka%21)
+- [Understand Everything in Logistic Regression by Edureka](https://www.youtube.com/watch?v=VCJdg7YBbAQ&ab_channel=edureka%21)
+- [Lasso, Ridge, and Logistic Regression by Krish Naik](https://www.youtube.com/live/vaQxdBEcBzU)
 
-#### C. Tree-Based/Ensemble Algorithms
-- [30 Questions to test a Data Scientist on Tree based models](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/)
-- [Gini-index v/s Information Entropy](https://towardsdatascience.com/gini-index-vs-information-entropy-7a7e4fed3fcb)
-- [Decision Tree vs. Random Forest – Which Algorithm Should you Use?](https://www.analyticsvidhya.com/blog/2020/05/decision-tree-vs-random-forest-algorithm/)
-- [Why Random Forest doesn't work well for Time-Series?](https://medium.com/datadriveninvestor/why-wont-time-series-data-and-random-forests-work-very-well-together-3c9f7b271631)
-- [Comprehensive guide to Ensemble Models](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)
-- [The Simple Math behind 3 Decision Tree Splitting criteria](https://mlwhiz.com/blog/2019/11/12/dtsplits/)
+#### Tree-Based (Decision Trees, Random Forest)
+- [How Do Decision Trees Work - Misra Turp](https://www.youtube.com/watch?v=xDWZzD4TPO0)
+- [Gini Index vs Entropy - UnFold DataScience](https://www.youtube.com/watch?v=-W0DnxQK1Eo&ab_channel=UnfoldDataScience)
+- [Decision Trees | GeeksForGeeks](https://www.geeksforgeeks.org/decision-tree-introduction-example/)
+- [Post Pruning in Decision Trees - Krish Naik](https://www.youtube.com/watch?v=SLOyyFHbiqo&ab_channel=KrishNaik)
+- [Entropy in Decision Trees - Krish Naik](https://www.youtube.com/watch?v=1IQOtJ4NI_0)
+- [Information Gain - Krish Naik](https://www.youtube.com/watch?v=FuTRucXB9rA)
+- [Gini Impurity - Krish Naik](https://www.youtube.com/watch?v=5aIFgrrTqOw)
+- [Decision Tree for Numerical Features - Krish Naik](https://www.youtube.com/watch?v=5O8HvA9pMew)
+- [Visualize Decision Tree - Krish Naik](https://www.youtube.com/watch?v=ot75kOmpYjI)
+- [Extra Trees Explained (Medium)](https://medium.com/@samybaladram/extra-trees-explained-a-visual-guide-with-code-examples-4c2967cedc75)
+- [30 Questions to Test Tree-Based Models](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/)
+- [Gini Index vs Information Entropy](https://towardsdatascience.com/gini-index-vs-information-entropy-7a7e4fed3fcb)
+- [Math Behind Decision Tree Splitting Criterions](https://mlwhiz.com/blog/2019/11/12/dtsplits/)
 
-#### D. K-Nearest-Neighbors
-- [Fundamental Interview Questions on KNN - A Quick refresh](http://theprofessionalspoint.blogspot.com/2019/01/knn-algorithm-in-machine-learning.html)
-- [30 Questions to test a Data Scientist on KNN](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/)
+#### Random Forest (Ensemble Bagging Algorithm)
+- [Guide to Ensemble Learning - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)
+- [Decision Tree vs Random Forest](https://www.analyticsvidhya.com/blog/2020/05/decision-tree-vs-random-forest-algorithm/)
+- [Ensemble Technique (Bagging) - Krish Naik](https://www.youtube.com/watch?v=KIOeZ5cFZ50)
+- [Random Forest Classifier and Regressor - Krish Naik](https://www.youtube.com/watch?v=nxFG5xdpDto)
+- [Decision Trees in Random Forests - Krish Naik](https://www.youtube.com/watch?v=WQ0iJSbnnZA&t=406s)
+- [Adaboost (Boosting) - Krish Naik](https://www.youtube.com/watch?v=NLRO1-jp5F8)
+- [Gradient Boosting Part 1 - Krish Naik](https://www.youtube.com/watch?v=Nol1hVtLOSg)
+- [Gradient Boosting Part 2 - Krish Naik](https://www.youtube.com/watch?v=Oo9q6YtGzvc)
+- [XGBoost Classifier - Krish Naik](https://www.youtube.com/watch?v=gPciUPwWJQQ)
+- [XGBoost Regression - Krish Naik](https://www.youtube.com/watch?v=w-_vmVfpssg)
+- [Implementation of XGBoost - Krish Naik](https://youtu.be/9HomdnM12o4)
+- [Why Random Forest Doesn't Work Well for Time-Series](https://medium.com/datadriveninvestor/why-wont-time-series-data-and-random-forests-work-very-well-together-3c9f7b271631)
+
+#### K-Nearest-Neighbors
+- [KNN Interview Questions](http://theprofessionalspoint.blogspot.com/2019/01/knn-algorithm-in-machine-learning.html)
+- [30 Questions to Test a Data Scientist on KNN](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/)
 - [Pros and Cons of KNN](https://www.fromthegenesis.com/pros-and-cons-of-k-nearest-neighbors/)
-- [KNN Algorithm - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=6kZ-OPLNcgE)
+- [KNN Explained (Theory + Maths + Coding)](https://www.youtube.com/watch?v=6kZ-OPLNcgE)
 
-#### E. Support Vector Machines
-- [All about SVMs - Math, Terminology, Intuition, Kernels in one article](https://towardsdatascience.com/support-vector-machines-svm-c9ef22815589)
-- [25 Questions to test a Data Scientist on SVMs](https://www.analyticsvidhya.com/blog/2017/10/svm-skilltest/)
+#### Support Vector Machines
+- [All About SVMs - Math, Terminology, Intuition, and Kernels](https://towardsdatascience.com/support-vector-machines-svm-c9ef22815589)
+- [25 Questions to Test a Data Scientist on SVMs](https://www.analyticsvidhya.com/blog/2017/10/svm-skilltest/)
 
-#### F. Naive Bayes
-- [12 tips to make the most out of Naive Bayes](https://machinelearningmastery.com/better-naive-bayes/)
-- [Naive Bayes - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=vz_xuxYS2PM)
-- [6 easy steps to learn Naive Bayes](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
+#### Naive Bayes
+- [12 Tips to Improve Naive Bayes](https://machinelearningmastery.com/better-naive-bayes/)
+- [Naive Bayes Explained (Theory + Maths + Coding)](https://www.youtube.com/watch?v=vz_xuxYS2PM)
+- [6 Easy Steps to Learn Naive Bayes](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
 
-#### G. Feature Selection
-- [Awesome Feature Engineering for Machine Learning: GitHub](https://github.com/aikho/awesome-feature-engineering)
+#### K-Means (Unsupervised ML)
+- [KMeans in 200 Words](https://thaddeus-segura.com/k-means/)
+- [K-Means Clustering | CampusX](https://youtu.be/5shTLzwAdEc?si=pToZl3DFIfq-b_VP)
+- [KNN Overview - Medium](https://medium.com/@priyanshsoni761/k-nearest-neighbors-knn-1606989b7ee0)
+- [K-Means Detailed Explanation - Kaggle](https://www.kaggle.com/code/vipulgandhi/kmeans-detailed-explanation)
 
-#### [Go to Top](#top)
+#### Principal Component Analysis (PCA)
+- [PCA using sklearn by Krish Naik](https://www.youtube.com/watch?v=QdBy02ExhGI&ab_channel=KrishNaik)
+- [PCA Guide - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2016/03/pca-practical-guide-principal-component-analysis-python/)
+- [Step-by-Step PCA Explanation - Builtin](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
+
+#### Model Evaluation
+- [Metrics and Scoring - Scikit-learn](https://scikit-learn.org/stable/modules/model_evaluation.html)
+- [Introduction to ROC Analysis - Tom Fawcett](https://ccrma.stanford.edu/workshops/mir2009/references/ROCintro.pdf)
+- [ROC Curves and AUC Explained - Data School](https://www.dataschool.io/roc-curves-and-auc-explained/)
+
+#### Recommendation Algorithm
+- [Marketing - Product Analytics and Recommendations](https://michael-fuchs-python.netlify.app/2020/09/08/marketing-product-analytics-and-recommendations/)
+
+#### Ranking Algorithm
+- [Introduction to Ranking Algorithms - Medium](https://towardsdatascience.com/introduction-to-ranking-algorithms-4e4639d65b8/)
+
+#### Time Series Forecasting Algorithm
+- [Complete Guide to Time Series Forecasting Models](https://medium.com/@wainaina.pierre/the-complete-guide-to-time-series-forecasting-models-ef9c8cd40037)
+
+##### [Go to Top](#top)
 --------------
-### <a id="mlops"></a>6. MLOps --
+### <a id="langchain"></a>6. LangChain
 
-#### **Learning (YouTube Playlists/Channels) --**
+#### INTERVIEW PREPARATION
+- [Natural Language Processing: Advance Techniques (Article)](https://medium.com/analytics-vidhya/natural-language-processing-advance-techniques-in-depth-analysis-b67bca5db432)
+- [Zero To One For NLP (Article)](https://pakodas.substack.com/p/nlp-metablog-a-blog-of-blogs-693e3a8f1e0c)
 
-- [Amazon SageMaker (Krish Naik)](https://www.youtube.com/playlist?list=PLZoTAELRMXVONh5mHrXowH6-dgyWoC_Ew)
-- [Docker Tutorial for Beginners (2024 Guide)](https://www.knowledgehut.com/blog/devops/docker-for-beginners#frequently-asked-questions)
+#### ARTICLES/VIDEOS
+- [Document Loaders in LangChain | GenAI using LangChain | Video 10 | CampusX](https://www.youtube.com/watch?v=bL92ALSZ2Cg&t=2057s&ab_channel=CampusX)
+- [LangGraph vs LangChain vs LangFlow vs LangSmith](https://www.youtube.com/watch?v=ldBsvhjEREc&list=PL08DKV75nW3t4nIRFfPQwhKNArVPuUT3A&index=3)
+- [Vector Databases simply explained! (Embeddings & Indexes)](https://youtu.be/dN0lsF2cvm4?si=D0v8gE7quAnqi_Qu)
+- [What is a Vector Database & How Does it Work? Use Cases + Examples](https://www.pinecone.io/learn/vector-database/)
+
+#### PROJECTS
+- [AI Medical Chatbot with RAG Tutorial (HUGGINGFACE & LANGCHAIN) | AI in healthcare End-to-End Project](https://www.youtube.com/watch?v=OP0FYjF-37c&ab_channel=AIwithHassan)
+
+##### [Go to Top](#top)
+--------------
+### <a id="mlops"></a>7. MLOps
+
+#### YOUTUBE PLAYLISTS/CHANNELS
+- [Amazon SageMaker (By Krish Naik)](https://www.youtube.com/playlist?list=PLZoTAELRMXVONh5mHrXowH6-dgyWoC_Ew)
+
+#### READING RESOURCES & TUTORIALS
+- [Docker Tutorial for Beginners [2024 Guide]](https://www.knowledgehut.com/blog/devops/docker-for-beginners#frequently-asked-questions)
+- [CS 329S: Machine Learning Systems Design (Course)](https://stanford-cs329s.github.io/syllabus.html)
+
+#### INTERVIEW PREPARATION
+- [Crack ML System Design Interviews Like a Pro — Part 1 (Medium)](https://freedium.cfd/medium.com/the-algorithmic-minds/crack-ml-system-design-interviews-like-a-pro-part-1-9c1203b2014f)
+
+#### ARTICLES/VIDEOS
+- [Feast as Feature Store in Machine Learning: Feature Store (MLOps)](https://www.youtube.com/watch?v=iZ8R_EUf_pM&ab_channel=AshutoshTripathi)
 - [The 24 MOST POPULAR AWS Services You Need to Know in 2025](https://www.youtube.com/watch?v=G-4o0dclZeQ&ab_channel=ITkFunde)
+- [How to Deploy Machine Learning Models by Udemy (Article)](https://christophergs.com/machine%20learning/2019/03/17/how-to-deploy-machine-learning-models/)
 
-#### [Go to Top](#top)
+##### [Go to Top](#top)
 --------------
-### <a id="case-studies"></a>7. CASE STUDIES:
-The best way to approach such a question is to have a framework -
-1. Ask questions to narrow down the problem area
-2. Suggest and use feedback to decide on business metrics relevant to the problem
-3. Decide the best ML formulation (classification/forecasting/recommendation)
-4. Decide on model metrics that can tie to business metrics.
-5. Suggest which models you would experiment with
-6. Explain how you would Productionalize.
-6. Explain how you would A/B test the final model
+### <a id="books"></a>8. BOOKS
 
-#### **Learning resources --**
-- [Product Case Interviews for Data Science Jobs by Emma Ding: YouTube Playlist](https://www.youtube.com/watch?v=QJat_nicj9c&list=PLY1Fi4XflWSvtu963rZpfH6WeX54vSrDW&index=3)
-- [Tips for a Case-Study Interview](https://workera.ai/resources/data-science-case-study-interview/)
+--------------
+### <a id="case-studies"></a>9. CASE STUDY AND SYSTEM DESIGN
 
-#### **Company Specific Case Studies --**
+#### GENERAL CASE STUDY
+- [Business Metrics for Data Analysts (Video)](https://www.youtube.com/watch?v=gatWC5PSdq8)
+- [Critical Metrics Every Product Manager Must Track (Article)](https://productcoalition.com/critical-metrics-every-product-manager-must-track-c5f1e46e3423)
+- [Customers of A Feather Engage Together: Using K-Means Clustering to Maximize Retention (Article)](https://ai-analytics.wharton.upenn.edu/student-programs/analytics-accelerator/customers-of-a-feather-engage-together-using-k-means-clustering-to-maximize-retention/)
+- [Elasticity: The Economic Concept Behind How Companies Price Products | WSJ Price Index (Video)](https://youtu.be/dmgFP0qteBU?si=Brm8oglMTPzZdA2H)
+- [Pricing Strategies & Models: An In-Depth Look at How to Price Your Products Effectively (Article)](https://blog.hubspot.com/sales/pricing-strategy)
+- [Pricing Trends to Consider](https://clickhubspot.com/7x5)
+- [Demand-Based Pricing](https://clickhubspot.com/n3e)
+- [Guide to Dynamic Pricing](https://clickhubspot.com/e58)
+- [Matching and Dynamic Pricing in Ride-Hailing Platforms (Microsoft Research) (Video)](https://www.youtube.com/watch?v=cddFAgRyxQ0)
+- [Likely-to-Sell Recommendations for Real Estate (Article)](https://medium.com/compass-true-north/likely-to-sell-recommendations-for-real-estate-47e2f5c37f4)
+- [Meta Product Sense Interview Questions and Answers (Video)](https://www.youtube.com/watch?v=1wdwrCdvgsE&ab_channel=JayFeng)
+- [10 Case Interview Formulas You Should Definitely Know by Hacking the Case Interview (Video)](https://youtu.be/EtRr89wmhZg?si=CrjJxgRFMHeME3XF)
+- [Use SQL to Analyze the Impact of Upsell Marketing Campaigns (with American Express PM) (Video)](https://youtu.be/OEACt1TBy-o?si=O5ekGOpAAMrzXAjV)
 - [Dawn of Taxi Aggregators](https://www.analyticsvidhya.com/blog/2016/04/case-study-analytics-interviews-dawn-taxi-aggregators/)
 - [Optimizing product prices for an online vendor](https://www.analyticsvidhya.com/blog/2016/07/solving-case-study-optimize-products-price-online-vendor-level-hard/)
 - [Mercari Price Prediction](https://towardsdatascience.com/a-data-science-case-study-with-python-mercari-price-prediction-4e852d95654)
@@ -228,8 +338,103 @@ The best way to approach such a question is to have a framework -
 - [Large Scale Forecasting for 1000+ products - Nagarro](https://www.youtube.com/watch?v=8jfDBD6xlFM)
 - [Clustering and Classification in E-Commerce](https://lucidworks.com/post/clustering-classification-supervised-unsupervised-learning-ecommerce/)
 - [The ABCs of Learning to Rank](https://lucidworks.com/post/abcs-learning-to-rank/)
-- [Data Science Case Study: Optimizing Product Placement in Retail ](https://towardsdatascience.com/data-science-case-study-optimizing-product-placement-in-retail-part-1-2e8b27e16e8d)
+- [Data Science Case Study: Optimizing Product Placement in Retail ](https://medium.com/data-science/data-science-case-study-optimizing-product-placement-in-retail-part-1-2e8b27e16e8d)
 
-#### [Go to Top](#top)
+#### SYSTEM DESIGN
+- [Square Machine Learning Interview: Decision Tree Bank Loan (Design ML model) (Video)](https://youtu.be/Mssq4KvSWZM?si=iRcEfD0g5mYdINdo)
+- [Fraud Detection - ML System Design Interview (Video)](https://www.youtube.com/watch?v=90eszaYPskk&ab_channel=TRYEXCEPT)
+
+#### COMPANY SPECIFIC CASE STUDY
+
+#### 1. LYFT/UBER
+- [Lyft/Uber Metric Interview Question and Answer: Tips for Data Science Interview Success! (Video)](https://www.youtube.com/watch?v=rIel9IcLUtg&ab_channel=EmmaDing)
+- [How Uber Built a QueryGPT](https://www.uber.com/blog/query-gpt/)
+- [What is Dynamic Pricing? How does Uber set its prices? (Video)](https://www.youtube.com/watch?v=nqWeiVyzlaQ&ab_channel=HubSpotMarketing)
+- [Data Analyst Interview | Uber Eats Market Expansion Strategy by Exponent (Video)](https://youtu.be/clsM-qJlY0c?si=FWcipe3ZHUmPsOc9)
+
+#### 2. VISA
+- [How Visa Became a Popular Credit Card (Video)](https://www.youtube.com/watch?v=0lpOMNC2Elo&ab_channel=CNBC)
+- [How Does VISA Make Money (Video)](https://www.youtube.com/watch?v=J0Gx-t1HLYg&list=TLPQMjQwMzIwMjXz0vaSqcZw5g&index=1&ab_channel=TheCompleteGuidetoEverything)
+- [Data Science at Visa (ACM) (Video)](http://youtube.com/watch?v=quUwYhHDsQc&list=PL08DKV75nW3uduflcVExO_vV4tsFQKZz5&index=4)
+
+#### 3. AIRBNB
+- [Experiments at Airbnb (Article)](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7#.miqyczkzb)
+
+#### 4. URBAN COMPANY
+- [How Urban Company uses Machine Learning to Improve Reliability of the Marketplace (Article)](https://medium.com/uc-engineering/how-urban-company-uses-machine-learning-to-improve-reliability-of-the-marketplace-0f0c1004e412)
+- [How Urban Company Leverages Causal Inference (Article)](https://medium.com/uc-engineering/how-urban-company-leverages-causal-inference-to-power-data-driven-decisions-a339cfcaa0e2)
+
+#### 5. WALMART
+- [How AI and Automation Fuel Walmart’s Ultrafast Deliveries | WSJ Shipping Wars (Video)](https://youtu.be/Nf-P-qNej3c?si=to3nj2jG3goEiuyP)
+
+#### 6. DOORDASH
+- [Data Preparation for Modeling [DoorDash Data Science Project] by StrataScratch (Video)](https://youtu.be/Sf6jn8QZHhc?si=qQi0gBmoRxSYJpjM)
+
+##### [Go to Top](#top)
 --------------
-![Machine learning Roadmap](./Assets/Images/Machine%20learning%20RoadMap.png)
+### <a id="product-metrics"></a>10. PRODUCT METRICS
+
+#### READING RESOURCES & TUTORIALS
+- [The Definitive Guide to Designing Product Metrics (Article)](https://medium.com/data-science/the-definitive-guide-to-designing-product-metrics-ba5d9e8e07e9)
+- [How to Succeed in A Product Data Science Interview (Article)](https://blog.pramp.com/how-to-succeed-in-a-data-science-interview-27553ab69d8a)
+- [Are You Tracking the Right Metrics? (Article)](https://www.productcompass.pm/p/are-you-tracking-the-right-metrics)
+
+#### INTERVIEW PREPARATION
+- [Cracking Facebook (Meta) Product Case Interviews by Emma Ding (Video)](https://www.youtube.com/watch?v=JCNsI0TtNGw)
+- [LinkedIn Metric Interview Question and Answer (Video)](https://www.youtube.com/watch?v=JjA6hvmaK7I&ab_channel=EmmaDing)
+
+##### [Go to Top](#top)
+--------------
+### <a id="tech_blogs"></a>10. TECH BLOGS
+
+#### COMPANY AI/ML BLOGS AND CASE STUDIES
+- [Airbnb AI & Machine Learning](https://lnkd.in/gzAXfQg5)
+- [Databricks Data Science & ML](https://lnkd.in/gRPE8Gbm)
+- [Google AI research applications](https://lnkd.in/gctN7Ths)
+- [NVIDIA Data Science](https://lnkd.in/ghzhBPnm)
+- [Apple Machine Learning Research](https://lnkd.in/gcJggDju)
+- [Stripe Machine Learning for Fraud Detection](https://lnkd.in/gKS4F-V3)
+- [Netflix Recommender System](https://lnkd.in/gm4pTRf4)
+- [Netflix Tech Blog](https://netflixtechblog.com/)
+- [Uber AI](https://lnkd.in/gXA8UEBU)
+- [X (aka Twitter)](https://lnkd.in/gNDME2-m)
+- [Pinterest Ads Recommender](https://lnkd.in/g8QXRH3i)
+- [Meta AI](https://lnkd.in/gGMp-Jh2)
+- [Microsoft ML](https://lnkd.in/gm-aSSP9)
+- [DoorDash Data Science and ML](https://careersatdoordash.com/engineering-blog/?category=AI%20%26%20ML)
+- [MongoDB AI](https://lnkd.in/g8c3HNaa)
+- [Amazon Machine Learning Blog](https://lnkd.in/g2Q3ZmEh)
+- [Grammarly NLP/ML](https://lnkd.in/guMDtPfW)
+- [Spotify Machine Learning](https://lnkd.in/gGq7uj9g)
+
+#### INDUSTRY CASE STUDIES & ARTICLES
+- [BSNL Story](https://bit.ly/3oKlVAV)
+- [Amul's Pandemic Strategy](https://bit.ly/3MWlUld)
+- [P & G Data Culture](https://bit.ly/3OXuRgT)
+- [Bad Loans at Banks](https://bit.ly/3oKmkmV)
+- [Burger King's Strategy](https://bit.ly/3CjYyRQ)
+- [AB InBev Automation](https://bit.ly/43PIlzi)
+- [Data Career in Insurance Industry](https://bit.ly/3MOk3yU)
+- [Ikea Case Study](https://bit.ly/3ChvnyD)
+- [PwC Using Analytics](https://bit.ly/3P2dewn)
+- [Data Science in Healthcare](https://bit.ly/43KANOn)
+- [Dashboard in Local Business](https://bit.ly/3CghrVt)
+- [Walmart Using Power BI](https://bit.ly/3oQJ4RY)
+- [Data Literacy at Starbucks](https://bit.ly/3P6Csdb)
+- [Efficiency Scoring in Business](https://bit.ly/43Nci2Z)
+- [Hospitality Insights](https://bit.ly/3DPBcoj)
+
+##### [Go to Top](#top)
+--------------
+### <a id="podcasts"></a>10. PODCASTS
+
+#### YOUTUBE PLAYLISTS/PODCASTS
+- [Super Data Science: ML & AI Podcast (YouTube)](https://www.youtube.com/@SuperDataScienceWithJonKrohn) – Hosted by Jon Krohn, covering ML, AI, and career advice.  
+- [Data Career Podcast](https://anchor.fm/datacareerpodcast) – How to transition into the data analytics field or get a job with no prior experience.  
+- [Data Bytes](https://www.womenindata.org/podcast) – Bite-sized data stories, professional interviews, and current trends.  
+- [Data Ideas Podcast](https://open.spotify.com/show/5pYsyJRoNStY1a6Ubw38v5?si=77c0959f2992402b) – Conversations with data professionals across various real-world topics.  
+- [Data & Impact](https://podcasts.apple.com/us/podcast/data-impact-a-passion2knowledge-experience/id1431897021) – Analytics perspectives from a wide range of industry experts.  
+- [Women in Data Science Worldwide](https://www.widsworldwide.org/get-inspired/podcasts/) – Advice and insights from top women leaders in data science.  
+- [The Data Scientist Show (YouTube)](https://www.youtube.com/c/thedatascientistshow) – Career tips and technical insights from industry-leading data scientists and AI researchers.  
+
+##### [Go To Top](#top)
